@@ -135,6 +135,8 @@ main {
 }
 .buttons {
   margin-top: 50px;
+  display: flex;
+  gap: 9px;
 }
 .banner {
   padding-block: 172px;
